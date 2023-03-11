@@ -1,6 +1,6 @@
 # Assembly-RPN-Calculator
 
-A simple assembly based “Reverse Polish Notation” (RPN) calculator.
+A simple assembly based Reverse Polish Notation (RPN) calculator.
 This calculator receives two hexadecimal numbers as inputs, and then performs
 one of 4 user selected operations on them: 
 
